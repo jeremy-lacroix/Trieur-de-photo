@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm jeremy lacroix</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **E-commerce web app**
+- 🔭 I’m currently working on **Python tool**
 
-- 🌱 I’m currently learning **the web development**
+- 🌱 I’m currently learning **file's metadata**
 
 - 📫 How to reach me **jeremylacroix21@outlook.fr**
 
